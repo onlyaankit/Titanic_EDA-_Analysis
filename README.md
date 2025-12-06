@@ -1,11 +1,11 @@
-# 🛳️ Titanic Survival Prediction — Exploratory Data Analysis (EDA)
+# 🛳️ Titanic Survival Prediction — Exploratory Data Analysis (EDA) Ankit Yadav 
 
 This project performs **in-depth Exploratory Data Analysis (EDA)** on the famous **Titanic dataset**, aiming to uncover patterns, relationships, and key factors that influenced passenger survival during the tragic sinking of the RMS Titanic in 1912.
 
 The focus of this repository is **only EDA**, not model building.
 
 ---
-
+## dataset Link: https://www.kaggle.com/datasets/yasserh/titanic-dataset
 ## 📌 Project Objective
 
 * Understand the structure and nuances of the Titanic dataset.
@@ -225,6 +225,4 @@ Pull requests are welcome! For major changes, open an issue first to discuss you
 
 Dataset sourced from **Kaggle Titanic: Machine Learning from Disaster**.
 
----
 
-Feel free to use, modify, and extend this analysis!
